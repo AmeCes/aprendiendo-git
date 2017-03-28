@@ -7,4 +7,4 @@
 * Creando y configurando repositorio en Github
 
 ## Flujo de trabajo con git & github
-![Workflow 1] (https://escuelait.github.io/taller-frontend-2017/img/git-level-wd.png)
+![Workflow 1](https://escuelait.github.io/taller-frontend-2017/img/git-level-wd.png)
